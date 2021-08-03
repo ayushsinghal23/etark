@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/etark/static/css/main.c58b64dd.chunk.css",
+    "main.js": "/etark/static/js/main.2f687897.chunk.js",
+    "main.js.map": "/etark/static/js/main.2f687897.chunk.js.map",
+    "runtime-main.js": "/etark/static/js/runtime-main.39b78573.js",
+    "runtime-main.js.map": "/etark/static/js/runtime-main.39b78573.js.map",
+    "static/js/2.e2fc0021.chunk.js": "/etark/static/js/2.e2fc0021.chunk.js",
+    "static/js/2.e2fc0021.chunk.js.map": "/etark/static/js/2.e2fc0021.chunk.js.map",
+    "static/js/3.af45c9a7.chunk.js": "/etark/static/js/3.af45c9a7.chunk.js",
+    "static/js/3.af45c9a7.chunk.js.map": "/etark/static/js/3.af45c9a7.chunk.js.map",
+    "index.html": "/etark/index.html",
+    "static/css/main.c58b64dd.chunk.css.map": "/etark/static/css/main.c58b64dd.chunk.css.map",
+    "static/js/2.e2fc0021.chunk.js.LICENSE.txt": "/etark/static/js/2.e2fc0021.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b78573.js",
+    "static/js/2.e2fc0021.chunk.js",
+    "static/css/main.c58b64dd.chunk.css",
+    "static/js/main.2f687897.chunk.js"
+  ]
+}
